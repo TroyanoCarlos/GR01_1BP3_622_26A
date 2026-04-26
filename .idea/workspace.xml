@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="029b7326-99c5-4ecf-b492-98886efd0898" name="Changes" comment="Supporting parameters unit test.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/calculator/CalculatorExecute.java" afterDir="false" />
+    <list default="true" id="029b7326-99c5-4ecf-b492-98886efd0898" name="Changes" comment="Adding calculator execute.&#10;Adding calculator java archive JAR.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/calculator/CalculatorExecute.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +174,7 @@
       <workItem from="1777171214716" duration="2611000" />
       <workItem from="1777176869670" duration="243000" />
       <workItem from="1777177231193" duration="572000" />
-      <workItem from="1777186225567" duration="5871000" />
+      <workItem from="1777186225567" duration="6876000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit test.">
       <option name="closed" value="true" />
@@ -192,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777190063731</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding calculator execute.&#10;Adding calculator java archive JAR.">
+      <option name="closed" value="true" />
+      <created>1777244524130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777244524130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +223,8 @@
     </ignored-roots>
     <MESSAGE value="Adding calculator class and unit test." />
     <MESSAGE value="Supporting parameters unit test." />
-    <option name="LAST_COMMIT_MESSAGE" value="Supporting parameters unit test." />
+    <MESSAGE value="Adding calculator execute.&#10;Adding calculator java archive JAR." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator execute.&#10;Adding calculator java archive JAR." />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
