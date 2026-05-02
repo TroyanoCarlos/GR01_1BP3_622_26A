@@ -1,5 +1,5 @@
 # Imagen base con Java
-FROM openjdk:11-jre-slim
+FROM eclipse-temurin:11-jre-jammy
 
 # Directorio de trabajo dentro del contenedor
 WORKDIR /app

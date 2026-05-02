@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/Dockerfile">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/Dockerfile" />
+              <option name="originalContent" value="# Imagen base con Java&#10;FROM openjdk:11-jre-slim&#10;&#10;# Directorio de trabajo dentro del contenedor&#10;WORKDIR /app&#10;&#10;# Copiar el JAR generado por Maven&#10;COPY target/sample-calculator-git-1.0-SNAPSHOT.jar app.jar&#10;&#10;# Comando que se ejecuta al arrancar el contenedor&#10;ENTRYPOINT [&quot;java&quot;, &quot;-cp&quot;, &quot;app.jar&quot;, &quot;ec.edu.epn.calculator.CalculatorExecute&quot;]&#10;" />
+              <option name="updatedContent" value="# Imagen base con Java&#10;FROM eclipse-temurin:11-jre-jammy&#10;&#10;# Directorio de trabajo dentro del contenedor&#10;WORKDIR /app&#10;&#10;# Copiar el JAR generado por Maven&#10;COPY target/sample-calculator-git-1.0-SNAPSHOT.jar app.jar&#10;&#10;# Comando que se ejecuta al arrancar el contenedor&#10;ENTRYPOINT [&quot;java&quot;, &quot;-cp&quot;, &quot;app.jar&quot;, &quot;ec.edu.epn.calculator.CalculatorExecute&quot;]&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
