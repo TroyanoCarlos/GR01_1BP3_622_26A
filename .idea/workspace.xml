@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="029b7326-99c5-4ecf-b492-98886efd0898" name="Changes" comment="Adding calculator execute.&#10;Adding calculator java archive JAR.">
+    <list default="true" id="029b7326-99c5-4ecf-b492-98886efd0898" name="Changes" comment="A change in CalculatorExecute class">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/calculator/CalculatorExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/calculator/CalculatorExecute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.calculator.CalculatorParametersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.calculator.CalculatorParametersTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.calculator.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.calculator.CalculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.calculator.CalculatorParametersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.calculator.CalculatorParametersTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.calculator.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.calculator.CalculatorTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +29,12 @@
     <persistenceIdMap>
       <entry key="_C:/Users/troya/IdeaProjects/GR01_1BT2_622_26A/GR01_1BP3_622_26A" value="3CsPFcfay5k9HUT2zPJMBORS14p" />
     </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="Claude Sonnet 4.6" />
+      <entry key="agent-panel" value="Claude Sonnet 4.6" />
+    </selectedModels>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,6 +80,7 @@
     "JUnit.CalculatorTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.sample-calculator-git [clean].executor": "Run",
+    "Maven.sample-calculator-git [deploy].executor": "Run",
     "Maven.sample-calculator-git [package].executor": "Run",
     "Maven.sample-calculator-git [test].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -174,7 +187,8 @@
       <workItem from="1777171214716" duration="2611000" />
       <workItem from="1777176869670" duration="243000" />
       <workItem from="1777177231193" duration="572000" />
-      <workItem from="1777186225567" duration="6876000" />
+      <workItem from="1777186225567" duration="7840000" />
+      <workItem from="1777759478061" duration="1562000" />
     </task>
     <task id="LOCAL-00001" summary="Adding calculator class and unit test.">
       <option name="closed" value="true" />
@@ -200,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777244524130</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="A change in CalculatorExecute class">
+      <option name="closed" value="true" />
+      <created>1777245558977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777245558977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +246,8 @@
     <MESSAGE value="Adding calculator class and unit test." />
     <MESSAGE value="Supporting parameters unit test." />
     <MESSAGE value="Adding calculator execute.&#10;Adding calculator java archive JAR." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding calculator execute.&#10;Adding calculator java archive JAR." />
+    <MESSAGE value="A change in CalculatorExecute class" />
+    <option name="LAST_COMMIT_MESSAGE" value="A change in CalculatorExecute class" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
